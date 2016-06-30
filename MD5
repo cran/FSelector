@@ -1,8 +1,8 @@
-9879797753ee743275232c10e48328a3 *DESCRIPTION
-58bf27b6cd66f197940d93667c03ff47 *NAMESPACE
+319984cf09b830d7ef2b5bffc03b3af1 *DESCRIPTION
+fce5c292b96254343b21ea6eaa20cba4 *NAMESPACE
 2cbe5658633af2ff4627e9d5678cd69f *R/cutoff.R
 96239cc4e677f4cdbea66bd8a128956e *R/discretize.R
-d666e5282706de090315a06c94c588bd *R/misc.R
+ed7cfa47f2f22f377897151d32ce1138 *R/misc.R
 19a5a605b85d71ef55cab63449cb2c5c *R/normalize.R
 350364d3e17d1cfbcb91aa23c00fcc33 *R/search.best.first.R
 c4677d841ce18a082ee1f74532af418f *R/search.exhaustive.R
@@ -13,10 +13,11 @@ b11ec5a8a6a4656ab74273d10a220cce *R/search.misc.R
 a998f328fd5d921b20318a3a5b900983 *R/selector.chi.squared.R
 fb8dd77c030f85403970739fd192517f *R/selector.consistency.R
 cd6a3bd5ddb4c08485e2b4139a29b953 *R/selector.correlation.R
-37c6bf6d97640cf9434c31df5608f591 *R/selector.info.gain.R
+f603622ece5702e988ab85162d68bbbc *R/selector.info.gain.R
 de9def2007db52303a2e933a5e607c4c *R/selector.oneR.R
 0d57650297ff0f3df12452b479e47935 *R/selector.random.forest.R
 b160d4d7193a60e912e6124738bad3ff *R/selector.relief.R
+b87d9368eda64069c2e9af15253cb676 *README.md
 a738f79ac7daa8a01d94678871cd86a5 *man/FSelector-package.Rd
 9753e9f8dcd07eabdf861026b4c2bcbd *man/as.simple.formula.Rd
 eae50cad9e689d6d65bec20e092ae71a *man/best.first.search.Rd
@@ -28,7 +29,7 @@ f727a0cf5a44a4f7d054234f32be617e *man/chi.squared.Rd
 a1250f1bd7d28f77b599b47d6d746b93 *man/exhaustive.search.Rd
 68c5bc1f2eca82454c5bdb3a336beb04 *man/greedy.search.Rd
 e2242c2d564e4e9c4033b1f3f4a44dee *man/hill.climbing.search.Rd
-289a6ccfab4c684ad22d73e70ca3fb88 *man/information.gain.Rd
+07a5475ddbb146a6a13a17f09887500c *man/information.gain.Rd
 45ef58034d2959466b51d821ef7939d8 *man/oneR.Rd
 a8ca0452ae41222f5ea9a62e9c9d3153 *man/random.forest.importance.Rd
 35ff07f3ba1481a13f6bed32493acb65 *man/relief.Rd
