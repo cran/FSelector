@@ -1,4 +1,4 @@
-319984cf09b830d7ef2b5bffc03b3af1 *DESCRIPTION
+f3adf8135cd8fb64ededa9e65e78aeb2 *DESCRIPTION
 fce5c292b96254343b21ea6eaa20cba4 *NAMESPACE
 2cbe5658633af2ff4627e9d5678cd69f *R/cutoff.R
 96239cc4e677f4cdbea66bd8a128956e *R/discretize.R
@@ -14,13 +14,13 @@ a998f328fd5d921b20318a3a5b900983 *R/selector.chi.squared.R
 fb8dd77c030f85403970739fd192517f *R/selector.consistency.R
 cd6a3bd5ddb4c08485e2b4139a29b953 *R/selector.correlation.R
 f603622ece5702e988ab85162d68bbbc *R/selector.info.gain.R
-de9def2007db52303a2e933a5e607c4c *R/selector.oneR.R
+b8dfdc5b1c2e2bcd21f184365a532a95 *R/selector.oneR.R
 0d57650297ff0f3df12452b479e47935 *R/selector.random.forest.R
 b160d4d7193a60e912e6124738bad3ff *R/selector.relief.R
 b87d9368eda64069c2e9af15253cb676 *README.md
-a738f79ac7daa8a01d94678871cd86a5 *man/FSelector-package.Rd
+123e95179ab0e8e1d51c96f93afc2653 *man/FSelector-package.Rd
 9753e9f8dcd07eabdf861026b4c2bcbd *man/as.simple.formula.Rd
-eae50cad9e689d6d65bec20e092ae71a *man/best.first.search.Rd
+49e7f0489d5b39626326c7301f5c0ae2 *man/best.first.search.Rd
 8bc8e17f391828d01facd243bf846a23 *man/cfs.Rd
 f727a0cf5a44a4f7d054234f32be617e *man/chi.squared.Rd
 9b6b14e5a3aca4ca9c49065337acd7d2 *man/consistency.Rd
