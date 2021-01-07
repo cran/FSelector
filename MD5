@@ -1,7 +1,7 @@
-f3adf8135cd8fb64ededa9e65e78aeb2 *DESCRIPTION
+d167723798f448d7af20fc1d91327faa *DESCRIPTION
 fce5c292b96254343b21ea6eaa20cba4 *NAMESPACE
-2cbe5658633af2ff4627e9d5678cd69f *R/cutoff.R
-96239cc4e677f4cdbea66bd8a128956e *R/discretize.R
+aba472728a2492c5bfc9f7458f430358 *R/cutoff.R
+c62fe5f8e0189b7c43224c2e2847685b *R/discretize.R
 ed7cfa47f2f22f377897151d32ce1138 *R/misc.R
 19a5a605b85d71ef55cab63449cb2c5c *R/normalize.R
 350364d3e17d1cfbcb91aa23c00fcc33 *R/search.best.first.R
