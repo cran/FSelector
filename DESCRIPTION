@@ -1,18 +1,22 @@
-Package: FSelector
 Type: Package
+Package: FSelector
 Title: Selecting Attributes
-Version: 0.32
-Date: 2021-01-04
-Author: Piotr Romanski, Lars Kotthoff
+Version: 0.33
+Date: 2021-02-16
+Author: Piotr Romanski, Lars Kotthoff, Patrick Schratz
 Maintainer: Lars Kotthoff <larsko@uwyo.edu>
-Description: Functions for selecting attributes from a given dataset. Attribute
-    subset selection is the process of identifying and removing as much of the
-    irrelevant and redundant information as possible.
+BugReports: https://github.com/larskotthoff/fselector/issues
+URL: https://github.com/larskotthoff/fselector
+Description: Functions for selecting attributes from a given
+    dataset. Attribute subset selection is the process of identifying and
+    removing as much of the irrelevant and redundant information as
+    possible.
 License: GPL-2
-Imports: randomForest, RWeka, digest, entropy
+Imports: digest, entropy, randomForest, RWeka
 Suggests: mlbench, rpart
+Encoding: UTF-8
 LazyLoad: yes
 NeedsCompilation: no
-Packaged: 2021-01-07 17:15:48 UTC; larsko
+Packaged: 2021-02-16 17:47:39 UTC; larsko
 Repository: CRAN
-Date/Publication: 2021-01-07 18:10:26 UTC
+Date/Publication: 2021-02-16 18:20:03 UTC
