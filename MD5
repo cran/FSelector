@@ -1,4 +1,4 @@
-860f3b14e8f42c9b4b39288a714bf02c *DESCRIPTION
+9619b86279f894cce398f44c33807525 *DESCRIPTION
 fce5c292b96254343b21ea6eaa20cba4 *NAMESPACE
 aba472728a2492c5bfc9f7458f430358 *R/cutoff.R
 2d4dfcd86e4042f9920b1709fa9a33e1 *R/discretize.R
@@ -18,7 +18,7 @@ b8dfdc5b1c2e2bcd21f184365a532a95 *R/selector.oneR.R
 0d57650297ff0f3df12452b479e47935 *R/selector.random.forest.R
 b160d4d7193a60e912e6124738bad3ff *R/selector.relief.R
 b87d9368eda64069c2e9af15253cb676 *README.md
-123e95179ab0e8e1d51c96f93afc2653 *man/FSelector-package.Rd
+21eb2e909deea8cc690e6c4cea24eccc *man/FSelector-package.Rd
 9753e9f8dcd07eabdf861026b4c2bcbd *man/as.simple.formula.Rd
 49e7f0489d5b39626326c7301f5c0ae2 *man/best.first.search.Rd
 8bc8e17f391828d01facd243bf846a23 *man/cfs.Rd
